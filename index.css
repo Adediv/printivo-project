@@ -1,0 +1,146 @@
+.div1{
+    
+    background-color: #f7f6f4;
+    color: rgb(129, 123, 123);
+    font-size: 12.5px !important;
+    font-weight: 300;
+    max-width: 100%;
+}
+.bt1{
+    margin-top: -1%;
+    border: thin rgb(185, 184, 184) solid;
+    height: 35px ;
+    width: 100px;
+    border-radius:45% ;
+    background-color: #f7f6f4 ;
+}
+.navbar-nav{
+    margin-left: 40%;
+
+}
+.navbar-expand-lg{
+    max-width: 100%;
+}
+.text-dark{
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    
+}
+.text-danger{
+    font-weight: 600 !important;
+    font-size: 14px !important;
+}
+.input1{
+    border: none;
+    height: 85px;
+   
+    background-color: white;
+    border-radius: 2%;
+    resize: horizontal;
+    max-width: 585px;
+    width: 100%;
+    min-width: 20px;
+
+
+}
+
+
+.navbar{
+    background-color:     #ede8d9 !important;
+}
+.div3{
+    background-color: #ede8d9;
+  
+   
+}
+.img2{
+    height: 330px;
+    width: 450px;
+}
+.card-img-top{
+    height:250px !important;
+    width: 100% !important;
+}
+.card-img-top{
+    transition: all 0.5s ease;
+}
+.card-img-top:hover{
+    transform: scale(1.1);
+}
+.ptag{
+    font-size: 14px !important;
+    color: grey !important;
+    font-weight: 500;
+}
+.card-body{
+    background-color: whitesmoke;
+}
+.div4{
+    width: 88%;
+    padding-top: 3.5%;
+    margin: auto !important;
+}
+.div6{
+    width: 88%;
+    margin: auto;
+   
+}
+.div6 img{
+    max-width: 100%;
+}
+.di6{
+    color: rgb(71, 59, 80);
+    margin-top: 5%;
+}
+.div7{
+    background-color: rgb(237, 243, 248);
+    margin-top: 6%;
+    padding-top: 5%;
+    padding-bottom: 4%;
+}
+.di7{
+    width: 88%;
+    margin: auto !important;
+}
+.d7{
+    margin-top: 2%;
+}
+.pic1{
+    height: 30px;
+}
+.div8{
+    width: 23rem;
+}
+.divb{
+    width: 88%;
+    margin: auto;
+    padding-top: 6%;
+    padding-bottom: 5%;
+    
+}
+.divb p{
+    text-decoration: underline;
+}
+.dib{
+    background-color:#ede8d9 ;
+    margin-top: 7%;
+}
+.divc{
+    max-width: 100%;
+    background-color: #384a62;
+    padding-top: 4%;
+    padding-bottom: 5%;
+}
+.m-auto{
+    margin: auto !important;
+}
+.divd{
+    text-align: center;
+    height: 100px;
+    align-items: center;
+}
+.dic{
+    width: 88%;
+    margin: auto;
+    max-width: 100% !important;
+}
